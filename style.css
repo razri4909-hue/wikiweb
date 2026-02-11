@@ -24,9 +24,9 @@ body {
     height:50px;
     line-height:50px;
     position:relative;
-    width;90%;
-    margin;0 auto;
-    padding;0 auto;
+    width:90%;
+    margin:0 auto;
+    padding:0 auto;
 }
 
 .menu ul{
@@ -41,6 +41,7 @@ body {
     color:#FFF;
     text-decoration:none;
 }
+
 
 
 
